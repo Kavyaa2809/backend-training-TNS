@@ -1,0 +1,8 @@
+package inheritanceexample;
+
+public class Dog extends Animal {
+	void bark() {
+		System.out.println("the dog barks");
+	}
+
+}
